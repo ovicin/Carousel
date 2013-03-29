@@ -12,6 +12,11 @@
 #include "ofxTLLFO.h"
 #include "ofxTimer.h"
 #include "ofxDfRobotRelayShield.h"
+#include "ofxUI.h"
+
+
+#define GUI_WIDTH 500
+#define GUI_HEIGHT 100
 
 class testApp : public ofBaseApp{
 
@@ -38,6 +43,11 @@ class testApp : public ofBaseApp{
 	ofxTimeline timeline;
 	
 	ofxDfRobotRelayShield relayShield;
+	ofxUICanvas *RelaySheildGui, *TimelineControlGui;
+	bool mouseDown;
+
+	void exit(); 
+	void guiEvent(ofxUIEventArgs &e);
 	
 
 	
