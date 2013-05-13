@@ -1,0 +1,355 @@
+Samplitude EDL File Format Version 1.5
+Title: "exported from reaper"
+Sample Rate: 48000
+Output Channels: 2
+
+
+Source Table Entries: 5
+   1 "C:\Users\tony\Desktop\performance_inefable\samples\blanco1.wav"
+   2 "C:\Users\tony\Desktop\performance_inefable\samples\negro1.wav"
+   3 "C:\Users\tony\Desktop\performance_inefable\samples\cd6.wav"
+   4 "C:\Users\tony\Desktop\performance_inefable\samples\cd11.wav"
+   5 "C:\Users\tony\Desktop\performance_inefable\samples\cd1.wav"
+
+Track 1: "blanco13inv" Solo: 0 Mute: 0
+#Source Track Play-In     Play-Out    Record-In   Record-Out  Vol(dB)  MT LK FadeIn       %     CurveType                          FadeOut      %     CurveType                          Name
+#------ ----- ----------- ----------- ----------- ----------- -------- -- -- ------------ ----- ---------------------------------- ------------ ----- ---------------------------------- -----
+      1     1           0       77029       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1       73846      150875       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1      221538      298568           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1      295385      372414           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1      443077      520106           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1      590769      667799           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1      738462      815491           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1      886154      963183       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1      960000     1037029       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     1107692     1184722           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     1181538     1258568           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     1329231     1406260           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     1476923     1553952           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     1624615     1701645           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     1772308     1849337       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     1846154     1923183       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     1993846     2070875           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     2067692     2144722           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     2215385     2292414           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     2363077     2440106           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     2510769     2587799           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     2658462     2735491       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     2732308     2809337       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     2880000     2957029           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     2953846     3030875           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     3101538     3178568           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     3249231     3326260           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     3396923     3473952           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     3544615     3621645       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     3618462     3695491       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     3766154     3843183           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     3840000     3917029           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     3987692     4064722           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     4135385     4212414           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     4283077     4360106           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     4430769     4507799       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     4504615     4581645       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     4652308     4729337           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     4726154     4803183           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     4873846     4950875           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     5021538     5098568           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     5169231     5246260           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     5316923     5393952       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     5390769     5467799       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     5538462     5615491           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     5612308     5689337           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     5760000     5837029           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     5907692     5984722           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     6055385     6132414           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     6203077     6280106       78486      155515     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     6276923     6353952       78486      155515     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     6424615     6501645           0       77029     0.00  0  0           66     0 "*default"                                 3183     0 "*default"                         "blanco1.wav"
+      1     1     6498462     6575491           0       77029     0.00  0  0         3183     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     6646154     6723183           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     6793846     6870875           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     6941538     7018568           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7089231     7166260           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7236923     7313952           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7384615     7461645           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7532308     7609337           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7680000     7757029           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7827692     7904722           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     7975385     8052414           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     8123077     8200106           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     8270769     8347799           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     8418462     8495491           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     8566154     8643183           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     8713846     8790875           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     8861538     8938568           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9009231     9086260           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9156923     9233952           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9304615     9381645           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9452308     9529337           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9600000     9677029           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9747692     9824722           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1     9895385     9972414           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10043077    10120106           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10190769    10267799           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10338462    10415491           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10486154    10563183           0       77029     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10656359    10699676           0       43316     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10705757    10742243           0       36487     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10748325    10918595           0      170270     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    10985487    11031095           0       45608     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11043257    11200229           0      156972     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11219609    11243933           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11262177    11435488           0      173311     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11460204    11502772           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11555266    11725537           0      170270     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11747854    11790422           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11896714    11921038           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    11961840    12005157           0       43316     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12026551    12050875           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12090232    12132800           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12137309    12179877           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12205785    12379096           0      173311     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12406001    12430326           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12479687    12522255           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12556723    12599290           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12625198    12649523           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12662852    12706169           0       43316     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12712250    12748736           0       36487     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12754817    12925088           0      170270     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    12991980    13037588           0       45608     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13049750    13206722           0      156972     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13226102    13250426           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13268669    13441980           0      173311     0.00  0  0           66     0 "*default"                                50711     0 "*default"                         "blanco1.wav"
+      1     1    13391270    13564581           0      173311     0.00  0  0        50711     0 "*default"                                 2822     0 "*default"                         "blanco1.wav"
+      1     1    13466697    13509265           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13561759    13732029           0      170270     0.00  0  0         2822     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13591486    13615811           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13754347    13796914           0       42568     0.00  0  0           66     0 "*default"                                16189     0 "*default"                         "blanco1.wav"
+      1     1    13780725    13823292           0       42568     0.00  0  0        16189     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13857760    13900328           0       42568     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13903207    13927531           0       24324     0.00  0  0           66     0 "*default"                                 1295     0 "*default"                         "blanco1.wav"
+      1     1    13926236    13950560           0       24324     0.00  0  0         1295     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    13968333    14011650           0       43316     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    14033043    14057368           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    14086133    14129450           0       43316     0.00  0  0           66     0 "*default"                                32725     0 "*default"                         "blanco1.wav"
+      1     1    14096725    14139293           0       42568     0.00  0  0        32725     0 "*default"                                 3762     0 "*default"                         "blanco1.wav"
+      1     1    14135531    14172017           0       36487     0.00  0  0         3762     0 "*default"                                28215     0 "*default"                         "blanco1.wav"
+      1     1    14143802    14186370           0       42568     0.00  0  0        28215     0 "*default"                                 8271     0 "*default"                         "blanco1.wav"
+      1     1    14178098    14348369           0      170270     0.00  0  0         8271     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    14415261    14460869           0       45608     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    14473031    14630003           0      156972     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    14649383    14673707           0       24324     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+      1     1    14691950    14865261           0      173311     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "blanco1.wav"
+
+Track 2: "negro13inv" Solo: 0 Mute: 0
+#Source Track Play-In     Play-Out    Record-In   Record-Out  Vol(dB)  MT LK FadeIn       %     CurveType                          FadeOut      %     CurveType                          Name
+#------ ----- ----------- ----------- ----------- ----------- -------- -- -- ------------ ----- ---------------------------------- ------------ ----- ---------------------------------- -----
+      2     2      147692      220172           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2      369231      441711           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2      515557      588037           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2      663855      736335           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2      812308      884788           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     1033846     1106326           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     1255385     1327865           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     1401711     1474191           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     1550009     1622489           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     1698462     1770942           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     1920000     1992480           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     2141538     2214018           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     2287865     2360345           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     2436162     2508642           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     2584615     2657095           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     2806154     2878634           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     3027692     3100172           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     3174018     3246498           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     3322316     3394796           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     3470769     3543249           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     3692308     3764788           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     3913846     3986326           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     4060172     4132652           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     4208470     4280950           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     4356923     4429403           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     4578462     4650942           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     4800000     4872480           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     4946326     5018806           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     5094624     5167104           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     5243077     5315557           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     5464615     5537095           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     5686154     5758634           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     5832480     5904960           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     5980778     6053258           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     6129231     6201711           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     6350769     6423249           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     6572308     6644788           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     6718634     6791114           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     6866932     6939412           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7015385     7087865           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7161711     7234191           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7310009     7382489           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7458462     7530942           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7604788     7677268           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7753086     7825566           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     7901538     7974018           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8047865     8120345           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8196162     8268642           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8344615     8417095           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8490942     8563422           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8639239     8711719           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8787692     8860172           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     8934018     9006498           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9082316     9154796           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9230769     9303249           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9377095     9449575           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9525393     9597873           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9673846     9746326           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9820172     9892652           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2     9968470    10040950           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10116923    10189403           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10263855    10336335           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10412308    10484788           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10559239    10631719           0       72480     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10635824    10803054           0      167230     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10860825    10900352           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    10915554    10988389           0       72835     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11000690    11021974           0       21284     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11031095    11052379           0       21284     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11064541    11104068           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11119271    11192106           0       72835     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11251405    11281286           0       29880     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11298482    11418315           0      119832     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11435434    11478231           0       42797     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11550986    11590514           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11620151    11659678           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11741646    11781173           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11807770    11927603           0      119832     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    11961840    12004638           0       42797     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12018462    12048343           0       29880     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12059585    12099112           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12128750    12168277           0       39527     0.00  0  0           66     0 "*default"                                 1971     0 "*default"                         "negro1.wav"
+      2     2    12166306    12205833           0       39527     0.00  0  0         1971     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12242375    12285173           0       42797     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12297256    12336783           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12370022    12409549           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12445450    12484977           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12642317    12809547           0      167230     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12867317    12906845           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    12922047    12994882           0       72835     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13007182    13028466           0       21284     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13037588    13058872           0       21284     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13071034    13110561           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13125764    13198599           0       72835     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13257898    13287779           0       29880     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13304975    13424808           0      119832     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13427860    13470657           0       42797     0.00  0  0           66     0 "*default"                                28731     0 "*default"                         "negro1.wav"
+      2     2    13441927    13484724           0       42797     0.00  0  0        28731     0 "*default"                                 1983     0 "*default"                         "negro1.wav"
+      2     2    13482741    13522268           0       39527     0.00  0  0         1983     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13555507    13595034           0       39527     0.00  0  0           66     0 "*default"                                37555     0 "*default"                         "negro1.wav"
+      2     2    13557479    13597006           0       39527     0.00  0  0        37555     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13626644    13666171           0       39527     0.00  0  0           66     0 "*default"                                35237     0 "*default"                         "negro1.wav"
+      2     2    13630934    13670461           0       39527     0.00  0  0        26789     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13695130    13734657           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13748139    13787666           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13814263    13934095           0      119832     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    13968333    14011130           0       42797     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14024955    14054835           0       29880     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14065598    14232828           0      167230     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14066078    14105605           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14135243    14174770           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14290598    14330125           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14345328    14418163           0       72835     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14430463    14451747           0       21284     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14460869    14482153           0       21284     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14494315    14533842           0       39527     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14549045    14621880           0       72835     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14681179    14711060           0       29880     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+      2     2    14728256    14848089           0      119832     0.00  0  0           66     0 "*default"                                   66     0 "*default"                         "negro1.wav"
+
+Track 3: "song6" Solo: 0 Mute: 0
+#Source Track Play-In     Play-Out    Record-In   Record-Out  Vol(dB)  MT LK FadeIn       %     CurveType                          FadeOut      %     CurveType                          Name
+#------ ----- ----------- ----------- ----------- ----------- -------- -- -- ------------ ----- ---------------------------------- ------------ ----- ---------------------------------- -----
+      3     3           0    13089280           0    13089280     0.00  0  0          480     0 "*default"                                  480     0 "*default"                         "cd6.wav"
+
+Track 4: "song11" Solo: 0 Mute: 0
+#Source Track Play-In     Play-Out    Record-In   Record-Out  Vol(dB)  MT LK FadeIn       %     CurveType                          FadeOut      %     CurveType                          Name
+#------ ----- ----------- ----------- ----------- ----------- -------- -- -- ------------ ----- ---------------------------------- ------------ ----- ---------------------------------- -----
+      4     4     3030875    15062875           0    12032000     0.00  0  0          480     0 "*default"                                  480     0 "*default"                         "cd11.wav"
+
+Track 5: "cd1" Solo: 0 Mute: 0
+#Source Track Play-In     Play-Out    Record-In   Record-Out  Vol(dB)  MT LK FadeIn       %     CurveType                          FadeOut      %     CurveType                          Name
+#------ ----- ----------- ----------- ----------- ----------- -------- -- -- ------------ ----- ---------------------------------- ------------ ----- ---------------------------------- -----
+      5     5    10230405    18969605           0     8739200     0.00  0  0          480     0 "*default"                                  480     0 "*default"                         "cd1.wav"
+
+Track 6: "busdelayrev" Solo: 0 Mute: 0
+#Source Track Play-In     Play-Out    Record-In   Record-Out  Vol(dB)  MT LK FadeIn       %     CurveType                          FadeOut      %     CurveType                          Name
+#------ ----- ----------- ----------- ----------- ----------- -------- -- -- ------------ ----- ---------------------------------- ------------ ----- ---------------------------------- -----
+
+
+#Volume/Pan curves
+
+Volume for Track 1:
+#Play-In       Vol(dB)
+#----------- ---------
+           0 0.000
+
+Pan for Track 1:
+#Play-In      Pan(0...2)
+#----------- ---------
+           0 1.00000
+
+Volume for Track 2:
+#Play-In       Vol(dB)
+#----------- ---------
+           0 -9.637
+
+Pan for Track 2:
+#Play-In      Pan(0...2)
+#----------- ---------
+           0 1.00000
+
+Volume for Track 3:
+#Play-In       Vol(dB)
+#----------- ---------
+           0 0.000
+
+Pan for Track 3:
+#Play-In      Pan(0...2)
+#----------- ---------
+           0 1.00000
+
+Volume for Track 4:
+#Play-In       Vol(dB)
+#----------- ---------
+           0 0.000
+
+Pan for Track 4:
+#Play-In      Pan(0...2)
+#----------- ---------
+           0 1.00000
+
+Volume for Track 5:
+#Play-In       Vol(dB)
+#----------- ---------
+           0 0.000
+
+Pan for Track 5:
+#Play-In      Pan(0...2)
+#----------- ---------
+           0 1.00000
+
+Volume for Track 6:
+#Play-In       Vol(dB)
+#----------- ---------
+           0 0.000
+
+Pan for Track 6:
+#Play-In      Pan(0...2)
+#----------- ---------
+           0 1.00000
+
+Markerlist:
+#Play-In     Type-ID CP EM ISRC           Name
+#----------- ------- -- -- -------------- ----
+     7089256       0                      "Parte2"
+    10633846       0                      "Parte3"
+

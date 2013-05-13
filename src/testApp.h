@@ -13,10 +13,13 @@
 #include "ofxTimer.h"
 #include "ofxDfRobotRelayShield.h"
 #include "ofxUI.h"
+#include "ofxTimer.h"
 
+
+#define SLIDE_SHOW_TIMER 4000
 
 #define GUI_WIDTH 500
-#define GUI_HEIGHT 100
+#define GUI_HEIGHT 200
 
 class testApp : public ofBaseApp{
 
@@ -41,15 +44,16 @@ class testApp : public ofBaseApp{
 
 
 	ofxTimeline timeline;
-	
+	ofxTimer SlideshowTimer;
+
 	ofxDfRobotRelayShield relayShield;
 	ofxUICanvas *RelaySheildGui, *TimelineControlGui;
 	bool mouseDown;
-
+	vector<ofxTimeline*> sublines;
 	void exit(); 
 	void guiEvent(ofxUIEventArgs &e);
-	
-
+	void AdvanceSlideShow(void);
+	bool SlideShowOn;
 	
 
 };
