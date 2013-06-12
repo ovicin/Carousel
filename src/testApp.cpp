@@ -31,7 +31,7 @@ void testApp::setup(){
 		t->setup();
 		t->setBPM(120.f);
 		t->setShowBPMGrid(false);
-		t->addAudioTrack("Audio Locura","flamenquitoylocura.wav");
+		t->addAudioTrack("Audio Locura","flamenquitoylocuracorto-001.wav");
 		t->setTimecontrolTrack("Audio Locura");
         t->setSpacebarTogglePlay(false);
         t->setDurationInSeconds(t->getAudioTrack("Audio Locura")->getDuration());

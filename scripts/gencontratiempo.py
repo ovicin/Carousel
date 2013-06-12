@@ -3,7 +3,7 @@ import time
 
 keyframes = 37
 tempo = 2
-starttime = 230
+starttime = 202
 
 # Open output files
 timeline1 = open('timeline1_contratiempo.xml', 'w')
@@ -11,6 +11,14 @@ timeline2 = open('timeline2_contratiempo.xml', 'w')
 
 timeline1.write('<keyframes>\n')
 timeline2.write('<keyframes>\n')
+
+
+timeline1.write('\t<key>\n')
+timeline1.write('\t\t<flag>Projector2On</flag>\n')
+timeline1.write('\t\t<time>00:03:23:500</time>\n')
+timeline1.write('\t\t<value>1.000000000</value>\n')
+timeline1.write('\t</key>\n')
+
 
 timeline1_oldtime = starttime
 timeline2_oldtime = starttime+1
@@ -31,6 +39,12 @@ for current_keyframe in range(1,keyframes):
 	timeline1_oldtime = timeline1_oldtime+tempo
 	timeline2_oldtime = timeline2_oldtime+tempo
 
+timeline1.write('\t<key>\n')
+timeline1.write('\t\t<flag>Projector1Off</flag>\n')
+timeline1.write('\t\t<time>00:04:33:500</time>\n')
+timeline1.write('\t\t<value>1.000000000</value>\n')
+timeline1.write('\t</key>\n')
+	
 timeline1.write('</keyframes>\n')
 timeline2.write('</keyframes>\n')
 	

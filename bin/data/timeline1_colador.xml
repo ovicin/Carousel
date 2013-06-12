@@ -35,8 +35,13 @@
         <value>6.000000000</value>
     </key>
     <key>
-        <flag>fwd1</flag>
+        <flag>AudioColadorOn</flag>
         <time>00:00:20:000</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>fwd1</flag>
+        <time>00:00:20:001</time>
         <value>7.000000000</value>
     </key>
     <key>
@@ -58,11 +63,6 @@
         <flag>fwd1</flag>
         <time>00:00:32:000</time>
         <value>11.000000000</value>
-    </key>
-    <key>
-        <flag>AudioColadorOn</flag>
-        <time>00:00:33:000</time>
-        <value>1.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
@@ -146,437 +146,467 @@
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:23:000</time>
+        <time>00:01:22:000</time>
         <value>28.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:26:000</time>
+        <time>00:01:24:000</time>
         <value>29.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:29:000</time>
+        <time>00:01:26:000</time>
         <value>30.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:32:000</time>
+        <time>00:01:28:000</time>
         <value>31.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:35:000</time>
+        <time>00:01:30:000</time>
         <value>32.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:38:000</time>
+        <time>00:01:32:000</time>
         <value>33.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:41:000</time>
+        <time>00:01:34:000</time>
         <value>34.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:44:000</time>
+        <time>00:01:36:000</time>
         <value>35.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:47:000</time>
+        <time>00:01:38:000</time>
         <value>36.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:50:000</time>
+        <time>00:01:40:000</time>
         <value>37.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:52:000</time>
+        <time>00:01:42:000</time>
         <value>38.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:54:000</time>
+        <time>00:01:44:000</time>
         <value>39.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:56:000</time>
+        <time>00:01:46:000</time>
         <value>40.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:01:58:000</time>
+        <time>00:01:48:000</time>
         <value>41.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:00:000</time>
+        <time>00:01:50:000</time>
         <value>42.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:02:000</time>
+        <time>00:01:52:000</time>
         <value>43.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:04:000</time>
+        <time>00:01:54:000</time>
         <value>44.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:06:000</time>
+        <time>00:01:56:000</time>
         <value>45.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:08:000</time>
+        <time>00:01:58:000</time>
         <value>46.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:10:000</time>
+        <time>00:02:00:000</time>
         <value>47.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:12:000</time>
+        <time>00:02:02:000</time>
         <value>48.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:14:000</time>
+        <time>00:02:04:000</time>
         <value>49.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:16:000</time>
+        <time>00:02:06:000</time>
         <value>50.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:18:000</time>
+        <time>00:02:08:000</time>
         <value>51.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:20:000</time>
+        <time>00:02:10:000</time>
         <value>52.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:22:000</time>
+        <time>00:02:12:000</time>
         <value>53.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>
-        <time>00:02:24:000</time>
+        <time>00:02:14:000</time>
         <value>54.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:26:000</time>
+        <time>00:02:16:000</time>
         <value>55.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:28:000</time>
+        <time>00:02:18:000</time>
         <value>56.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:30:000</time>
+        <time>00:02:19:000</time>
         <value>57.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:32:000</time>
+        <time>00:02:20:000</time>
         <value>58.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:34:000</time>
+        <time>00:02:21:000</time>
         <value>59.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:36:000</time>
+        <time>00:02:22:000</time>
         <value>60.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:38:000</time>
+        <time>00:02:23:000</time>
         <value>61.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:40:000</time>
+        <time>00:02:24:000</time>
         <value>62.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:42:000</time>
+        <time>00:02:25:000</time>
         <value>63.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:44:000</time>
+        <time>00:02:26:000</time>
         <value>64.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:46:000</time>
+        <time>00:02:27:000</time>
         <value>65.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:48:000</time>
+        <time>00:02:28:000</time>
         <value>66.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:50:000</time>
+        <time>00:02:29:000</time>
         <value>67.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:52:000</time>
+        <time>00:02:30:000</time>
         <value>68.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:54:000</time>
+        <time>00:02:31:000</time>
         <value>69.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:56:000</time>
+        <time>00:02:32:000</time>
         <value>70.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:02:58:000</time>
+        <time>00:02:33:000</time>
         <value>71.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:00:000</time>
+        <time>00:02:34:000</time>
         <value>72.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:02:000</time>
+        <time>00:02:35:000</time>
         <value>73.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:04:000</time>
+        <time>00:02:36:000</time>
         <value>74.000000000</value>
     </key>
     <key>
-        <flag>AudioColadorOff</flag>
-        <time>00:03:05:000</time>
+        <flag>bck1</flag>
+        <time>00:02:37:000</time>
         <value>75.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:06:000</time>
-        <value>75.000000000</value>
-    </key>
-    <key>
-        <flag>bck1</flag>
-        <time>00:03:08:000</time>
+        <time>00:02:38:000</time>
         <value>76.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:10:000</time>
+        <time>00:02:39:000</time>
         <value>77.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:11:000</time>
+        <time>00:02:40:000</time>
         <value>78.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:12:000</time>
+        <time>00:02:41:000</time>
         <value>79.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:13:000</time>
+        <time>00:02:42:000</time>
         <value>80.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:14:000</time>
+        <time>00:02:43:000</time>
         <value>81.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:15:000</time>
+        <time>00:02:44:000</time>
         <value>82.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:16:000</time>
+        <time>00:02:45:000</time>
         <value>83.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:17:000</time>
+        <time>00:02:46:000</time>
         <value>84.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:18:000</time>
+        <time>00:02:47:000</time>
         <value>85.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:19:000</time>
+        <time>00:02:48:000</time>
         <value>86.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:20:000</time>
+        <time>00:02:49:000</time>
         <value>87.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:21:000</time>
+        <time>00:02:50:000</time>
         <value>88.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:22:000</time>
+        <time>00:02:51:000</time>
         <value>89.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:23:000</time>
+        <time>00:02:52:000</time>
         <value>90.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:24:000</time>
+        <time>00:02:53:000</time>
         <value>91.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:25:000</time>
+        <time>00:02:54:000</time>
         <value>92.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:26:000</time>
+        <time>00:02:55:000</time>
         <value>93.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:27:000</time>
+        <time>00:02:56:000</time>
         <value>94.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:28:000</time>
+        <time>00:02:57:000</time>
         <value>95.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:29:000</time>
+        <time>00:02:58:000</time>
         <value>96.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:30:000</time>
+        <time>00:02:59:000</time>
         <value>97.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:31:000</time>
+        <time>00:03:00:000</time>
         <value>98.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:32:000</time>
+        <time>00:03:01:000</time>
         <value>99.000000000</value>
     </key>
     <key>
+        <flag>AudioColadorOff</flag>
+        <time>00:03:01:001</time>
+        <value>1.000000000</value>
+    </key>
+    <key>
         <flag>bck1</flag>
-        <time>00:03:33:000</time>
+        <time>00:03:02:000</time>
         <value>100.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:34:000</time>
+        <time>00:03:03:000</time>
         <value>101.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:35:000</time>
+        <time>00:03:04:000</time>
         <value>102.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:36:000</time>
+        <time>00:03:05:000</time>
         <value>103.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:37:000</time>
+        <time>00:03:06:000</time>
         <value>104.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:38:000</time>
+        <time>00:03:07:000</time>
         <value>105.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:39:000</time>
+        <time>00:03:08:000</time>
         <value>106.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:40:000</time>
+        <time>00:03:09:000</time>
         <value>107.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:41:000</time>
+        <time>00:03:10:000</time>
         <value>108.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:42:000</time>
+        <time>00:03:11:000</time>
         <value>109.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:43:000</time>
+        <time>00:03:12:000</time>
         <value>110.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:44:000</time>
+        <time>00:03:13:000</time>
         <value>111.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:46:000</time>
+        <time>00:03:14:000</time>
         <value>112.000000000</value>
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:03:49:000</time>
+        <time>00:03:15:000</time>
         <value>113.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:03:16:000</time>
+        <value>114.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:03:17:000</time>
+        <value>115.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:03:18:000</time>
+        <value>116.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:03:19:000</time>
+        <value>117.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:03:20:000</time>
+        <value>118.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:03:22:000</time>
+        <value>119.000000000</value>
     </key>
 </keyframes>
