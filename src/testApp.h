@@ -14,7 +14,7 @@
 #include "ofxDfRobotRelayShield.h"
 #include "ofxUI.h"
 #include "ofxTimer.h"
-
+#include "NanoKontrol2.h"
 
 #define SLIDE_SHOW_TIMER 4000
 
@@ -42,7 +42,7 @@ class testApp : public ofBaseApp{
 	void MoveForward(void);
 	void MoveBackward(void);
 
-
+	void pollNanoKontrol(void);
 	ofxTimeline timeline;
 	ofxTimer SlideshowTimer;
 
@@ -54,6 +54,6 @@ class testApp : public ofBaseApp{
 	void guiEvent(ofxUIEventArgs &e);
 	void AdvanceSlideShow(void);
 	bool SlideShowOn;
-	
+	NanoKontrol2 kontrol;
 
 };

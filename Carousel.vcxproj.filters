@@ -25,6 +25,15 @@
 		<ClCompile Include="..\..\..\addons\ofxMSATimer\src\ofxMSATimer.cpp">
 			<Filter>addons\ofxMSATimer\src</Filter>
 		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxNanoKontrol2\src\MidiMessage.cpp">
+			<Filter>addons\ofxNanoKontrol2\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxNanoKontrol2\src\NanoKontrol2.cpp">
+			<Filter>addons\ofxNanoKontrol2\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\src\RtMidi.cpp">
+			<Filter>addons\ofxNanoKontrol2\libs\RtMidi\src</Filter>
+		</ClCompile>
 		<ClCompile Include="..\..\..\addons\ofxTextInputField\src\ofxTextInputField.cpp">
 			<Filter>addons\ofxTextInputField\src</Filter>
 		</ClCompile>
@@ -198,6 +207,24 @@
 		<Filter Include="addons\ofxMSATimer\src">
 			<UniqueIdentifier>{21227b69-34ba-dc94-65c0-e08097e60473}</UniqueIdentifier>
 		</Filter>
+		<Filter Include="addons\ofxNanoKontrol2">
+			<UniqueIdentifier>{e49598c5-8af6-415a-1748-fea791a47002}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNanoKontrol2\src">
+			<UniqueIdentifier>{8cc46017-539b-8550-3fd5-40e507b88a8a}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNanoKontrol2\libs">
+			<UniqueIdentifier>{9efad420-3960-1330-942f-9e57e1c039d2}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNanoKontrol2\libs\RtMidi">
+			<UniqueIdentifier>{7405cf0f-3e3b-1e6b-0b0e-08cbcaa21b5f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNanoKontrol2\libs\RtMidi\include">
+			<UniqueIdentifier>{3d48e641-c03d-41d6-ca3f-f2af9cbebfc2}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxNanoKontrol2\libs\RtMidi\src">
+			<UniqueIdentifier>{7091b211-e00f-26b6-5556-0e1521cd3938}</UniqueIdentifier>
+		</Filter>
 		<Filter Include="addons\ofxRange">
 			<UniqueIdentifier>{c5cf358f-f6d6-0f61-5433-25f14c446730}</UniqueIdentifier>
 		</Filter>
@@ -295,6 +322,18 @@
 		</ClInclude>
 		<ClInclude Include="..\..\..\addons\ofxMSATimer\src\ofxMSATimer.h">
 			<Filter>addons\ofxMSATimer\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\src\MidiMessage.h">
+			<Filter>addons\ofxNanoKontrol2\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\src\NanoKontrol2.h">
+			<Filter>addons\ofxNanoKontrol2\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\include\RtError.h">
+			<Filter>addons\ofxNanoKontrol2\libs\RtMidi\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\include\RtMidi.h">
+			<Filter>addons\ofxNanoKontrol2\libs\RtMidi\include</Filter>
 		</ClInclude>
 		<ClInclude Include="..\..\..\addons\ofxRange\src\ofRange.h">
 			<Filter>addons\ofxRange\src</Filter>
@@ -548,6 +587,9 @@
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUINumberDialer.h">
 			<Filter>addons\ofxUI\src</Filter>
 		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIOFWrapper.h">
+			<Filter>addons\ofxUI\src</Filter>
+		</ClInclude>
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRadio.h">
 			<Filter>addons\ofxUI\src</Filter>
 		</ClInclude>
@@ -572,6 +614,12 @@
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISpectrum.h">
 			<Filter>addons\ofxUI\src</Filter>
 		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISuperCanvas.h">
+			<Filter>addons\ofxUI\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITabBar.h">
+			<Filter>addons\ofxUI\src</Filter>
+		</ClInclude>
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITextArea.h">
 			<Filter>addons\ofxUI\src</Filter>
 		</ClInclude>
@@ -582,6 +630,9 @@
 			<Filter>addons\ofxUI\src</Filter>
 		</ClInclude>
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIToggleMatrix.h">
+			<Filter>addons\ofxUI\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIUtils.h">
 			<Filter>addons\ofxUI\src</Filter>
 		</ClInclude>
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIValuePlotter.h">

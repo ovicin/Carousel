@@ -1,6 +1,7 @@
 ofxXmlSettings
 ofxDfRobotRelayShield
 ofxMSATimer
+ofxNanoKontrol2
 ofxRange
 ofxTextInputField
 ofxTimecode

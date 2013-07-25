@@ -77,7 +77,8 @@ void testApp::setup(){
 
 
 	relayShield.setup();
-	RelaySheildGui = new ofxUICanvas(GUI_WIDTH + 10,ofGetHeight()-GUI_HEIGHT,GUI_WIDTH,GUI_HEIGHT);
+	//RelaySheildGui = new ofxUICanvas(GUI_WIDTH + 10,ofGetHeight()-GUI_HEIGHT,GUI_WIDTH,GUI_HEIGHT);
+	RelaySheildGui = new ofxUICanvas(GUI_WIDTH + 10,10,GUI_WIDTH,GUI_HEIGHT);
 	ofColor color;
 	RelaySheildGui->setColorBack(color.darkKhaki);
 	RelaySheildGui->addWidgetDown(new ofxUIToggle(16, 16, false, "FULLSCREEN"));
@@ -97,7 +98,8 @@ void testApp::setup(){
 
 	ofAddListener(RelaySheildGui->newGUIEvent, this, &testApp::guiEvent);
 
-	TimelineControlGui = new ofxUICanvas(0,ofGetHeight()-GUI_HEIGHT,GUI_WIDTH,GUI_HEIGHT);
+	//TimelineControlGui = new ofxUICanvas(0,ofGetHeight()-GUI_HEIGHT,GUI_WIDTH,GUI_HEIGHT);
+	TimelineControlGui = new ofxUICanvas(0,10,GUI_WIDTH,GUI_HEIGHT);
 	TimelineControlGui->setColorBack(color.darkKhaki);
 	TimelineControlGui->addWidgetDown(new ofxUILabel("Timeline Control", OFX_UI_FONT_LARGE)); 
 	TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "Start"));
@@ -112,11 +114,17 @@ void testApp::setup(){
 	TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "AudioColadorStart"));
 	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioColadorPause"));
 	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioColadorStop"));
-
+	
 	ofAddListener(TimelineControlGui->newGUIEvent, this, &testApp::guiEvent);
 
 	SlideshowTimer.setup(SLIDE_SHOW_TIMER,false);
 	SlideShowOn = false;
+
+
+	/* add the nanokontrol object */
+	kontrol.setup();
+	kontrol.show();
+	//kontrol.hide();
 
 }
 
@@ -225,6 +233,7 @@ void testApp::update(){
 		SlideshowTimer.startTimer();
 		
 	}
+	pollNanoKontrol();
 		
 }
 
@@ -247,6 +256,8 @@ void testApp::draw(){
         sublines[i]->draw();
     }
 
+	kontrol.draw();
+
 }
 
 
@@ -260,6 +271,10 @@ void testApp::keyPressed(int key){
 			relayShield.PulseRelay3();
 	} else if (key == '4'){
 			relayShield.PulseRelay4();
+	}
+	else if (key == 'c'){
+			TimelineControlGui->toggleVisible();
+			RelaySheildGui->toggleVisible();
 	}
 }
 
@@ -308,6 +323,7 @@ void testApp::exit()
     //gui->saveSettings("GUI/guiSettings.xml"); 
     delete RelaySheildGui; 
 }
+
 
 //--------------------------------------------------------------
 void testApp::guiEvent(ofxUIEventArgs &e)
@@ -461,4 +477,10 @@ void testApp::guiEvent(ofxUIEventArgs &e)
 		else
 			relayShield.DisableRelaysControl = false;
     }
+}
+
+void testApp::pollNanoKontrol(){
+
+	if (kontrol.channel[1].button[MixerChannel::SoloButton])
+		timeline.play();
 }

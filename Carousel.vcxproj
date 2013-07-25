@@ -57,7 +57,7 @@
 			<PrecompiledHeader />
 			<WarningLevel>Level3</WarningLevel>
 			<DebugInformationFormat>EditAndContinue</DebugInformationFormat>
-			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);..\..\..\addons\ofxXmlSettings\libs;..\..\..\addons\ofxXmlSettings\src;..\..\..\addons\ofxDfRobotRelayShield\libs;..\..\..\addons\ofxDfRobotRelayShield\src;..\..\..\addons\ofxMSATimer\libs;..\..\..\addons\ofxMSATimer\src;..\..\..\addons\ofxRange\libs;..\..\..\addons\ofxRange\src;..\..\..\addons\ofxTextInputField\libs;..\..\..\addons\ofxTextInputField\src;..\..\..\addons\ofxTimecode\libs;..\..\..\addons\ofxTimecode\src;..\..\..\addons\ofxTimeline\libs;..\..\..\addons\ofxTimeline\src;..\..\..\addons\ofxTimeline\libs\kiss;..\..\..\addons\ofxTimeline\libs\kiss\include;..\..\..\addons\ofxTimeline\libs\kiss\src;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions\src;..\..\..\addons\ofxTimeline\libs\openal;..\..\..\addons\ofxTimeline\libs\openal\include;..\..\..\addons\ofxTimeline\libs\openal\include\AL;..\..\..\addons\ofxTimeline\libs\openal\libs;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MT;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MTDLL;..\..\..\addons\ofxTimeline\libs\sndfile;..\..\..\addons\ofxTimeline\libs\sndfile\include;..\..\..\addons\ofxTimeline\libs\sndfile\lib;..\..\..\addons\ofxTimeline\libs\sndfile\lib\vs2010;..\..\..\addons\ofxTimeline\libs\sndfile\redist;..\..\..\addons\ofxTimer\libs;..\..\..\addons\ofxTimer\src;..\..\..\addons\ofxTween\libs;..\..\..\addons\ofxTween\src;..\..\..\addons\ofxTween\src\Easings;..\..\..\addons\ofxUI\libs;..\..\..\addons\ofxUI\src</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);..\..\..\addons\ofxXmlSettings\libs;..\..\..\addons\ofxXmlSettings\src;..\..\..\addons\ofxDfRobotRelayShield\libs;..\..\..\addons\ofxDfRobotRelayShield\src;..\..\..\addons\ofxMSATimer\libs;..\..\..\addons\ofxMSATimer\src;..\..\..\addons\ofxNanoKontrol2\libs;..\..\..\addons\ofxNanoKontrol2\src;..\..\..\addons\ofxNanoKontrol2\libs\RtMidi;..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\include;..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\src;..\..\..\addons\ofxRange\libs;..\..\..\addons\ofxRange\src;..\..\..\addons\ofxTextInputField\libs;..\..\..\addons\ofxTextInputField\src;..\..\..\addons\ofxTimecode\libs;..\..\..\addons\ofxTimecode\src;..\..\..\addons\ofxTimeline\libs;..\..\..\addons\ofxTimeline\src;..\..\..\addons\ofxTimeline\libs\kiss;..\..\..\addons\ofxTimeline\libs\kiss\include;..\..\..\addons\ofxTimeline\libs\kiss\src;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions\src;..\..\..\addons\ofxTimeline\libs\openal;..\..\..\addons\ofxTimeline\libs\openal\include;..\..\..\addons\ofxTimeline\libs\openal\include\AL;..\..\..\addons\ofxTimeline\libs\openal\libs;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MT;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MTDLL;..\..\..\addons\ofxTimeline\libs\sndfile;..\..\..\addons\ofxTimeline\libs\sndfile\include;..\..\..\addons\ofxTimeline\libs\sndfile\lib;..\..\..\addons\ofxTimeline\libs\sndfile\lib\vs2010;..\..\..\addons\ofxTimeline\libs\sndfile\redist;..\..\..\addons\ofxTimer\libs;..\..\..\addons\ofxTimer\src;..\..\..\addons\ofxTween\libs;..\..\..\addons\ofxTween\src;..\..\..\addons\ofxTween\src\Easings;..\..\..\addons\ofxUI\libs;..\..\..\addons\ofxUI\src</AdditionalIncludeDirectories>
 		</ClCompile>
 		<Link>
 			<OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
@@ -80,7 +80,7 @@
 			<PrecompiledHeader />
 			<WarningLevel>Level3</WarningLevel>
 			<DebugInformationFormat />
-			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);..\..\..\addons\ofxXmlSettings\libs;..\..\..\addons\ofxXmlSettings\src;..\..\..\addons\ofxDfRobotRelayShield\libs;..\..\..\addons\ofxDfRobotRelayShield\src;..\..\..\addons\ofxMSATimer\libs;..\..\..\addons\ofxMSATimer\src;..\..\..\addons\ofxRange\libs;..\..\..\addons\ofxRange\src;..\..\..\addons\ofxTextInputField\libs;..\..\..\addons\ofxTextInputField\src;..\..\..\addons\ofxTimecode\libs;..\..\..\addons\ofxTimecode\src;..\..\..\addons\ofxTimeline\libs;..\..\..\addons\ofxTimeline\src;..\..\..\addons\ofxTimeline\libs\kiss;..\..\..\addons\ofxTimeline\libs\kiss\include;..\..\..\addons\ofxTimeline\libs\kiss\src;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions\src;..\..\..\addons\ofxTimeline\libs\openal;..\..\..\addons\ofxTimeline\libs\openal\include;..\..\..\addons\ofxTimeline\libs\openal\include\AL;..\..\..\addons\ofxTimeline\libs\openal\libs;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MT;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MTDLL;..\..\..\addons\ofxTimeline\libs\sndfile;..\..\..\addons\ofxTimeline\libs\sndfile\include;..\..\..\addons\ofxTimeline\libs\sndfile\lib;..\..\..\addons\ofxTimeline\libs\sndfile\lib\vs2010;..\..\..\addons\ofxTimeline\libs\sndfile\redist;..\..\..\addons\ofxTimer\libs;..\..\..\addons\ofxTimer\src;..\..\..\addons\ofxTween\libs;..\..\..\addons\ofxTween\src;..\..\..\addons\ofxTween\src\Easings;..\..\..\addons\ofxUI\libs;..\..\..\addons\ofxUI\src</AdditionalIncludeDirectories>
+			<AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);..\..\..\addons\ofxXmlSettings\libs;..\..\..\addons\ofxXmlSettings\src;..\..\..\addons\ofxDfRobotRelayShield\libs;..\..\..\addons\ofxDfRobotRelayShield\src;..\..\..\addons\ofxMSATimer\libs;..\..\..\addons\ofxMSATimer\src;..\..\..\addons\ofxNanoKontrol2\libs;..\..\..\addons\ofxNanoKontrol2\src;..\..\..\addons\ofxNanoKontrol2\libs\RtMidi;..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\include;..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\src;..\..\..\addons\ofxRange\libs;..\..\..\addons\ofxRange\src;..\..\..\addons\ofxTextInputField\libs;..\..\..\addons\ofxTextInputField\src;..\..\..\addons\ofxTimecode\libs;..\..\..\addons\ofxTimecode\src;..\..\..\addons\ofxTimeline\libs;..\..\..\addons\ofxTimeline\src;..\..\..\addons\ofxTimeline\libs\kiss;..\..\..\addons\ofxTimeline\libs\kiss\include;..\..\..\addons\ofxTimeline\libs\kiss\src;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions;..\..\..\addons\ofxTimeline\libs\ofOpenALSoundPlayer_TimelineAdditions\src;..\..\..\addons\ofxTimeline\libs\openal;..\..\..\addons\ofxTimeline\libs\openal\include;..\..\..\addons\ofxTimeline\libs\openal\include\AL;..\..\..\addons\ofxTimeline\libs\openal\libs;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MT;..\..\..\addons\ofxTimeline\libs\openal\libs\vs2010\EFX-Util_MTDLL;..\..\..\addons\ofxTimeline\libs\sndfile;..\..\..\addons\ofxTimeline\libs\sndfile\include;..\..\..\addons\ofxTimeline\libs\sndfile\lib;..\..\..\addons\ofxTimeline\libs\sndfile\lib\vs2010;..\..\..\addons\ofxTimeline\libs\sndfile\redist;..\..\..\addons\ofxTimer\libs;..\..\..\addons\ofxTimer\src;..\..\..\addons\ofxTween\libs;..\..\..\addons\ofxTween\src;..\..\..\addons\ofxTween\src\Easings;..\..\..\addons\ofxUI\libs;..\..\..\addons\ofxUI\src</AdditionalIncludeDirectories>
 		</ClCompile>
 		<Link>
 			<IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
@@ -106,6 +106,9 @@
 		<ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp" />
 		<ClCompile Include="..\..\..\addons\ofxDfRobotRelayShield\src\ofxDfRobotRelayShield.cpp" />
 		<ClCompile Include="..\..\..\addons\ofxMSATimer\src\ofxMSATimer.cpp" />
+		<ClCompile Include="..\..\..\addons\ofxNanoKontrol2\src\MidiMessage.cpp" />
+		<ClCompile Include="..\..\..\addons\ofxNanoKontrol2\src\NanoKontrol2.cpp" />
+		<ClCompile Include="..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\src\RtMidi.cpp" />
 		<ClCompile Include="..\..\..\addons\ofxTextInputField\src\ofxTextInputField.cpp" />
 		<ClCompile Include="..\..\..\addons\ofxTimecode\src\ofxTimecode.cpp" />
 		<ClCompile Include="..\..\..\addons\ofxTimeline\src\ofxHotKeys_impl_linux.cpp" />
@@ -162,6 +165,10 @@
 		<ClInclude Include="..\..\..\addons\ofxDfRobotRelayShield\src\DfRobotRelayShield.h" />
 		<ClInclude Include="..\..\..\addons\ofxDfRobotRelayShield\src\ofxDfRobotRelayShield.h" />
 		<ClInclude Include="..\..\..\addons\ofxMSATimer\src\ofxMSATimer.h" />
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\src\MidiMessage.h" />
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\src\NanoKontrol2.h" />
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\include\RtError.h" />
+		<ClInclude Include="..\..\..\addons\ofxNanoKontrol2\libs\RtMidi\include\RtMidi.h" />
 		<ClInclude Include="..\..\..\addons\ofxRange\src\ofRange.h" />
 		<ClInclude Include="..\..\..\addons\ofxTextInputField\src\ofxTextInputField.h" />
 		<ClInclude Include="..\..\..\addons\ofxTimecode\src\ofxTimecode.h" />
@@ -246,6 +253,7 @@
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIMultiImageSlider.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIMultiImageToggle.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUINumberDialer.h" />
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIOFWrapper.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRadio.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRangeSlider.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIRectangle.h" />
@@ -254,10 +262,13 @@
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISlider.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISpacer.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISpectrum.h" />
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUISuperCanvas.h" />
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITabBar.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITextArea.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUITextInput.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIToggle.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIToggleMatrix.h" />
+		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIUtils.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIValuePlotter.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWaveform.h" />
 		<ClInclude Include="..\..\..\addons\ofxUI\src\ofxUIWidget.h" />
