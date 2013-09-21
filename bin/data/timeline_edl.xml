@@ -1040,14 +1040,14 @@
         <value>129.000000000</value>
     </key>
     <key>
-        <flag>fwd2</flag>
-        <time>00:11:21:001</time>
-        <value>115.000000000</value>
-    </key>
-    <key>
         <flag>AudioLocuraOff</flag>
         <time>00:11:21:000</time>
         <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>fwd2</flag>
+        <time>00:11:21:001</time>
+        <value>115.000000000</value>
     </key>
     <key>
         <flag>fwd1</flag>

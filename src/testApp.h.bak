@@ -14,7 +14,6 @@
 #include "ofxDfRobotRelayShield.h"
 #include "ofxUI.h"
 #include "ofxTimer.h"
-#include "slide.h"
 
 
 #define SLIDE_SHOW_TIMER 4000
@@ -55,6 +54,6 @@ class testApp : public ofBaseApp{
 	void guiEvent(ofxUIEventArgs &e);
 	void AdvanceSlideShow(void);
 	bool SlideShowOn;
-	slide posturas;
+	
 
 };
