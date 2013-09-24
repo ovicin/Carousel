@@ -1,0 +1,5 @@
+bin/*.app
+*.jpg
+*.wav
+.dropbox
+bin/data/PerformanceSequence/**/*

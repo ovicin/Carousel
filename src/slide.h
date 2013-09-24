@@ -2,7 +2,7 @@
 
 #include "ofMain.h"
 
-#define SLIDES_PATH "data/PerformanceSequence"
+#define SLIDES_PATH "PerformanceSequence"
 #define TRANSITION_TIME 200
 
 class slide {
