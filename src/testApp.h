@@ -15,6 +15,11 @@
 #include "ofxUI.h"
 #include "ofxTimer.h"
 #include "slide.h"
+#include "ofxOsc.h"
+
+
+#define HOST "localhost"
+#define PORT 12345
 
 
 #define SLIDE_SHOW_TIMER 4000
@@ -42,7 +47,8 @@ class testApp : public ofBaseApp{
 	void bangFired(ofxTLBangEventArgs& args);
 	void MoveForward(void);
 	void MoveBackward(void);
-
+	
+	void senOSCEvent();
 
 	ofxTimeline timeline;
 	ofxTimer SlideshowTimer;
@@ -56,5 +62,8 @@ class testApp : public ofBaseApp{
 	void AdvanceSlideShow(void);
 	bool SlideShowOn;
 	slide posturas;
+
+		//osc stuff
+	ofxOscSender sender1;
 
 };

@@ -119,6 +119,20 @@ void testApp::setup(){
 	SlideshowTimer.setup(SLIDE_SHOW_TIMER,false);
 	SlideShowOn = false;
 
+
+		// open an outgoing connection to HOST:PORT
+	sender1.setup( HOST, PORT );
+
+	
+
+}
+
+void testApp::senOSCEvent(){
+		ofxOscMessage m;
+		m.setAddress( "/movie/position" );		
+        m.addFloatArg(2);
+        m.addFloatArg(3);
+	sender1.sendMessage(m);
 }
 
 //--------------------------------------------------------------
