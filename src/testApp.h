@@ -16,10 +16,11 @@
 #include "ofxTimer.h"
 #include "slide.h"
 #include "ofxOsc.h"
+#include "ofxMidi.h"
 
 
 #define HOST "localhost"
-#define PORT 12345
+#define PORT 7000
 
 
 #define SLIDE_SHOW_TIMER 4000
@@ -62,8 +63,16 @@ class testApp : public ofBaseApp{
 	void AdvanceSlideShow(void);
 	bool SlideShowOn;
 	slide posturas;
-
+    void SendMidiNote(int MidiNote);
 		//osc stuff
 	ofxOscSender sender1;
+    
+    //midi stuff
+    ofxMidiOut midiOut;
+	int channel;
+	
+	unsigned int currentPgm;
+	int note, velocity;
+	int pan, bend, touch, polytouch;
 
 };
