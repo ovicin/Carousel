@@ -34,45 +34,50 @@ timeline1.write('<keyframes>\n')
 
 timeline1.write('\t<key>\n')
 timeline1.write('\t\t<flag>AudioLocuraOn</flag>\n')
-timeline1.write('\t\t<time>00:05:19:000</time>\n')
+timeline1.write('\t\t<time>00:00:00:000</time>\n')
 timeline1.write('\t\t<value>1.000000000</value>\n')
 timeline1.write('\t</key>\n')
 
 timeline1.write('\t<key>\n')
 timeline1.write('\t\t<flag>LightOn</flag>\n')
-timeline1.write('\t\t<time>00:05:50:500</time>\n')
+timeline1.write('\t\t<time>00:00:10:500</time>\n')
 timeline1.write('\t\t<value>1.000000000</value>\n')
 timeline1.write('\t</key>\n')
 
 timeline1.write('\t<key>\n')
 timeline1.write('\t\t<flag>Projector2Off</flag>\n')
-timeline1.write('\t\t<time>00:05:55:000</time>\n')
+timeline1.write('\t\t<time>00:00:15:000</time>\n')
 timeline1.write('\t\t<value>1.000000000</value>\n')
 timeline1.write('\t</key>\n')
 
 timeline1.write('\t<key>\n')
 timeline1.write('\t\t<flag>Projector2On</flag>\n')
-timeline1.write('\t\t<time>00:06:25:000</time>\n')
+timeline1.write('\t\t<time>00:01:25:000</time>\n')
 timeline1.write('\t\t<value>1.000000000</value>\n')
 timeline1.write('\t</key>\n')
 
 timeline1.write('\t<key>\n')
 timeline1.write('\t\t<flag>Projector1On</flag>\n')
-timeline1.write('\t\t<time>00:06:40:000</time>\n')
+timeline1.write('\t\t<time>00:01:40:000</time>\n')
 timeline1.write('\t\t<value>1.000000000</value>\n')
 timeline1.write('\t</key>\n')
 
 timeline1_oldtime = float(StartTime)
 
 for rowx in xrange(TableStartRow-1, sh.nrows):
-	tempo = sh.cell(rowx,TempoColumn-1).value
+        tempo = sh.cell(rowx,TempoColumn-1).value
 
-	timeline1.write('\t<key>\n')
-	timeline1.write('\t\t<flag>'+sh.cell(rowx,BangColumn-1).value+'</flag>\n')
-	timeline1.write('\t\t<time>'+time.strftime('%H:%M:%S:000', time.gmtime(timeline1_oldtime+tempo))+'</time>\n')
-	timeline1.write('\t\t<value>'+str(sh.cell(rowx,SlideNoColumn-1).value)+'.000000000</value>\n')
-	timeline1.write('\t</key>\n')
-	
+        timeline1.write('\t<key>\n')
+        timeline1.write('\t\t<flag>'+sh.cell(rowx,BangColumn-1).value+'</flag>\n')
+        timeline1.write('\t\t<time>'+time.strftime('%H:%M:%S:000', time.gmtime(timeline1_oldtime+tempo))+'</time>\n')
+        timeline1.write('\t\t<value>'+str(sh.cell(rowx,SlideNoColumn-1).value)+'.000000000</value>\n')
+        timeline1.write('\t</key>\n')
+    
+        timeline1.write('\t<key>\n')
+        timeline1.write('\t\t<flag>bck2</flag>\n')
+        timeline1.write('\t\t<time>'+time.strftime('%H:%M:%S:000', time.gmtime(timeline1_oldtime+tempo+1))+'</time>\n')
+        timeline1.write('\t\t<value>'+str(sh.cell(rowx,SlideNoColumn-1).value)+'.000000000</value>\n')
+        timeline1.write('\t</key>\n')
 
 #timeline1.write('</keyframes>\n')
 
