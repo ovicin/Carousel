@@ -271,11 +271,11 @@ void testApp::MoveBackward(){
 
 //-------------------------------------------------------------
 void testApp::update(){
-	if (SlideshowTimer.isTimerFinished() && SlideShowOn){
+	if (SlideshowTimer.isTimerFinished() && SlideShowOn && (SlideShowCounter<=SlideShowPhotos)){
 		AdvanceSlideShow();
 		SlideshowTimer.reset();
 		SlideshowTimer.startTimer();
-		
+		SlideShowCounter++;
 	}
 		
 }

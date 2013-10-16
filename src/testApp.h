@@ -74,5 +74,8 @@ class testApp : public ofBaseApp{
 	unsigned int currentPgm;
 	int note, velocity;
 	int pan, bend, touch, polytouch;
+    
+    int SlideShowCounter;
+    int SlideShowPhotos= 80;
 
 };

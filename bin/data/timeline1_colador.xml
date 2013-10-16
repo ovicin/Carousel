@@ -351,7 +351,7 @@
     </key>
     <key>
         <flag>bck1</flag>
-        <time>00:05:25:000</time>
+        <time>00:05:25:001</time>
         <value>69.000000000</value>
     </key>
     <key>
@@ -606,7 +606,17 @@
     </key>
     <key>
         <flag>AudioColadorOff</flag>
-        <time>00:06:16:000</time>
+        <time>00:06:15:001</time>
         <value>1.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:06:16:000</time>
+        <value>119.000000000</value>
+    </key>
+    <key>
+        <flag>bck1</flag>
+        <time>00:06:17:000</time>
+        <value>119.000000000</value>
     </key>
 </keyframes>
