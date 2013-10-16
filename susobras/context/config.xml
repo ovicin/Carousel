@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config id="256">
+  <version>3.0.4</version>
+  <show id="susobras">60</show>
+  <step id="37"/>
+  <universe2broadcast id="1"/>
+  <LevelStyleDisplay id="0"/>
+  <goback id="500"/>
+  <SDefault_Time id="5"/>
+  <At_level id="255"/>
+  <GraphicalTick id="2"/>
+  <exportSample id="1"/>
+  <color id="white"/>
+  <PenColor id="black"/>
+  <hourtrigger id="0">
+    <startTime></startTime>
+    <endTime></endTime>
+  </hourtrigger>
+  <GrandMaster id="255"/>
+  <WaitInhib id="0"/>
+  <MLinkInhib id="0"/>
+  <DOUChannel id="0"/>
+  <LoadCueInSeq id="1"/>
+  <ChannelLevel id="13"/>
+  <GrandMasterCurve id="0"/>
+  <ChoosenOutput id="0"/>
+  <oscProcess id="0"/>
+  <oscWriterActivity id="0"/>
+  <SubSwitchTotal id="1"/>
+  <CloudReminder id="1"/>
+  <midiProcess id="1"/>
+  <MidiInput id="-1">Multiple Input</MidiInput>
+  <MidiOutput id="-100">None</MidiOutput>
+  <Windows_Position>
+    <window pos_x="1" pos_y="0" size_x="9" size_y="7">.</window>
+    <window pos_x="40" pos_y="40" size_x="469" size_y="756">.keybind</window>
+    <window pos_x="20" pos_y="20" size_x="435" size_y="707">.midi</window>
+    <window pos_x="20" pos_y="20" size_x="815" size_y="335">.modifySub</window>
+    <window pos_x="20" pos_y="20" size_x="726" size_y="30">.modifytop</window>
+    <window pos_x="20" pos_y="20" size_x="237" size_y="368">.fxList</window>
+    <window pos_x="40" pos_y="40" size_x="873" size_y="534">.fx</window>
+    <window pos_x="40" pos_y="40" size_x="435" size_y="400">.setupMod</window>
+  </Windows_Position>
+</config>

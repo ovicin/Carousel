@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CueContext>
+  <cue id="0">0.0</cue>
+  <cue id="1">0.5</cue>
+  <cue id="2">0.7</cue>
+  <cue id="3">1.0</cue>
+  <cue id="4">1.5</cue>
+  <cue id="5">1.7</cue>
+  <cue id="6">2.0</cue>
+  <cue id="7">3.0</cue>
+  <cue id="8">4.0</cue>
+  <cue id="9">5.0</cue>
+  <cue id="10">5.1</cue>
+  <cue id="11">5.5</cue>
+  <cue id="12">6.0</cue>
+  <cue id="13">7.0</cue>
+  <cue id="14">8.0</cue>
+  <cue id="15">9.0</cue>
+  <cue id="16">10.0</cue>
+  <cue id="17">11.0</cue>
+</CueContext>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FxSequence>
+  <step id="0">
+    <group>1.0</group>
+    <timein>2</timein>
+    <timeout>0.5</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+  </step>
+  <step id="1">
+    <group>2.0</group>
+    <timein>1</timein>
+    <timeout>2</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+  </step>
+  <step id="2">
+    <group>3.0</group>
+    <timein>0.4</timein>
+    <timeout>1</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+  </step>
+</FxSequence>

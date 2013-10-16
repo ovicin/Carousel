@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<shortcut>
+  <shNodeLevel>2</shNodeLevel>
+  <key id="prepa">
+    <sh>p</sh>
+    <sh></sh>
+  </key>
+  <key id="scene">
+    <sh>s</sh>
+    <sh></sh>
+  </key>
+  <key id="cue">
+    <sh>q</sh>
+    <sh></sh>
+  </key>
+  <key id="record">
+    <sh>R</sh>
+    <sh></sh>
+  </key>
+  <key id="modify">
+    <sh>M</sh>
+    <sh></sh>
+  </key>
+  <key id="cue_load">
+    <sh>x</sh>
+    <sh></sh>
+  </key>
+  <key id="cue_delete">
+    <sh>Q</sh>
+    <sh></sh>
+  </key>
+  <key id="step">
+    <sh>k</sh>
+    <sh></sh>
+  </key>
+  <key id="step_load">
+    <sh>l</sh>
+    <sh></sh>
+  </key>
+  <key id="step_insert">
+    <sh>I</sh>
+    <sh></sh>
+  </key>
+  <key id="step_delete">
+    <sh>S</sh>
+    <sh></sh>
+  </key>
+  <key id="channel">
+    <sh>c</sh>
+    <sh></sh>
+  </key>
+  <key id="time">
+    <sh>tt</sh>
+    <sh></sh>
+  </key>
+  <key id="time_in">
+    <sh>ti</sh>
+    <sh></sh>
+  </key>
+  <key id="time_out">
+    <sh>to</sh>
+    <sh></sh>
+  </key>
+  <key id="delay">
+    <sh>dd</sh>
+    <sh></sh>
+  </key>
+  <key id="delay_in">
+    <sh>di</sh>
+    <sh></sh>
+  </key>
+  <key id="delay_out">
+    <sh>do</sh>
+    <sh></sh>
+  </key>
+  <key id="wait">
+    <sh>w</sh>
+    <sh></sh>
+  </key>
+  <key id="go">
+    <sh>space</sh>
+    <sh></sh>
+  </key>
+  <key id="pause">
+    <sh>P</sh>
+    <sh></sh>
+  </key>
+  <key id="goback">
+    <sh>G</sh>
+    <sh></sh>
+  </key>
+  <key id="At_level">
+    <sh>equal</sh>
+    <sh></sh>
+  </key>
+  <key id="+">
+    <sh>plus</sh>
+    <sh></sh>
+  </key>
+  <key id="-">
+    <sh>minus</sh>
+    <sh></sh>
+  </key>
+  <key id="thru">
+    <sh>greater</sh>
+    <sh></sh>
+  </key>
+  <key id="all">
+    <sh>a</sh>
+    <sh></sh>
+  </key>
+  <key id="full">
+    <sh>f</sh>
+    <sh></sh>
+  </key>
+  <key id="step+">
+    <sh>Down</sh>
+    <sh></sh>
+  </key>
+  <key id="step-">
+    <sh>Up</sh>
+    <sh></sh>
+  </key>
+  <key id="+%">
+    <sh>Right</sh>
+    <sh></sh>
+  </key>
+  <key id="-%">
+    <sh>Left</sh>
+    <sh></sh>
+  </key>
+  <key id="jump">
+    <sh>j</sh>
+    <sh></sh>
+  </key>
+  <key id="dimmer">
+    <sh>v</sh>
+    <sh></sh>
+  </key>
+  <key id="pages">
+    <sh>semicolon</sh>
+    <sh></sh>
+  </key>
+  <key id="sub_open">
+    <sh>exclam</sh>
+    <sh></sh>
+  </key>
+  <key id="sub_page">
+    <sh>y</sh>
+    <sh></sh>
+  </key>
+  <key id="sub_page-">
+    <sh>Y</sh>
+    <sh></sh>
+  </key>
+  <key id="group_selection">
+    <sh>h</sh>
+    <sh></sh>
+  </key>
+  <key id="group_load">
+    <sh>O</sh>
+    <sh></sh>
+  </key>
+  <key id="group_record">
+    <sh>H</sh>
+    <sh></sh>
+  </key>
+  <key id="cue_goto">
+    <sh>n</sh>
+    <sh></sh>
+  </key>
+  <key id="text">
+    <sh>o</sh>
+    <sh></sh>
+  </key>
+  <key id="fx_load">
+    <sh>m</sh>
+    <sh></sh>
+  </key>
+  <key id="speed_load">
+    <sh>B</sh>
+    <sh></sh>
+  </key>
+  <key id="MLink">
+    <sh>L</sh>
+    <sh></sh>
+  </key>
+  <key id="TimeGroup">
+    <sh>z</sh>
+    <sh></sh>
+  </key>
+  <key id="Delete">
+    <sh>BackSpace</sh>
+    <sh></sh>
+  </key>
+  <key id="0">
+    <sh>0</sh>
+    <sh></sh>
+  </key>
+  <key id="1">
+    <sh>1</sh>
+    <sh></sh>
+  </key>
+  <key id="2">
+    <sh>2</sh>
+    <sh></sh>
+  </key>
+  <key id="3">
+    <sh>3</sh>
+    <sh></sh>
+  </key>
+  <key id="4">
+    <sh>4</sh>
+    <sh></sh>
+  </key>
+  <key id="5">
+    <sh>5</sh>
+    <sh></sh>
+  </key>
+  <key id="6">
+    <sh>6</sh>
+    <sh></sh>
+  </key>
+  <key id="7">
+    <sh>7</sh>
+    <sh></sh>
+  </key>
+  <key id="8">
+    <sh>8</sh>
+    <sh></sh>
+  </key>
+  <key id="9">
+    <sh>9</sh>
+    <sh></sh>
+  </key>
+  <key id="Dot(.)">
+    <sh>period</sh>
+    <sh></sh>
+  </key>
+  <key id="Clone">
+    <sh>b</sh>
+    <sh></sh>
+  </key>
+  <key id="Inv">
+    <sh>asterisk</sh>
+    <sh></sh>
+  </key>
+  <key id="Sub">
+    <sh>ugrave</sh>
+    <sh></sh>
+  </key>
+  <key id="MidiSwitch">
+    <sh>e</sh>
+    <sh></sh>
+  </key>
+  <key id="Swap">
+    <sh>u</sh>
+    <sh></sh>
+  </key>
+  <key id="Live">
+    <sh>r</sh>
+    <sh></sh>
+  </key>
+  <key id="KillSub">
+    <sh>Escape</sh>
+    <sh></sh>
+  </key>
+  <key id="SubBook">
+    <sh></sh>
+    <sh></sh>
+  </key>
+</shortcut>

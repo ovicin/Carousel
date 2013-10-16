@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<midi>
+  <switch id="127"/>
+  <switch id="126"/>
+  <switch id="125"/>
+  <switch id="124"/>
+  <switch id="123"/>
+  <switch id="122"/>
+  <switch id="121"/>
+  <switch id="120"/>
+  <switch id="119"/>
+  <switch id="118"/>
+  <switch id="117"/>
+  <switch id="116"/>
+  <switch id="115"/>
+  <switch id="114"/>
+  <switch id="113"/>
+  <switch id="112"/>
+  <switch id="111"/>
+  <switch id="110"/>
+  <switch id="109"/>
+  <switch id="108"/>
+  <switch id="107"/>
+  <switch id="106"/>
+  <switch id="105"/>
+  <switch id="104"/>
+  <switch id="103"/>
+  <switch id="102"/>
+  <switch id="101"/>
+  <switch id="100"/>
+  <switch id="99"/>
+  <switch id="98"/>
+  <switch id="97"/>
+  <switch id="96"/>
+  <switch id="95"/>
+  <switch id="94"/>
+  <switch id="93"/>
+  <switch id="92"/>
+  <switch id="91"/>
+  <switch id="90"/>
+  <switch id="89"/>
+  <switch id="88"/>
+  <switch id="87"/>
+  <switch id="86"/>
+  <switch id="85"/>
+  <switch id="84"/>
+  <switch id="83"/>
+  <switch id="82"/>
+  <switch id="81"/>
+  <switch id="80"/>
+  <switch id="79"/>
+  <switch id="78"/>
+  <switch id="77"/>
+  <switch id="76"/>
+  <switch id="75"/>
+  <switch id="74"/>
+  <switch id="73"/>
+  <switch id="72"/>
+  <switch id="71"/>
+  <switch id="70"/>
+  <switch id="69"/>
+  <switch id="68"/>
+  <switch id="67"/>
+  <switch id="66"/>
+  <switch id="65"/>
+  <switch id="64"/>
+  <switch id="63"/>
+  <switch id="62"/>
+  <switch id="61"/>
+  <switch id="60"/>
+  <switch id="59"/>
+  <switch id="58"/>
+  <switch id="57"/>
+  <switch id="56"/>
+  <switch id="55"/>
+  <switch id="54"/>
+  <switch id="53"/>
+  <switch id="52"/>
+  <switch id="51"/>
+  <switch id="50"/>
+  <switch id="49"/>
+  <switch id="48"/>
+  <switch id="47"/>
+  <switch id="46"/>
+  <switch id="45"/>
+  <switch id="44"/>
+  <switch id="43"/>
+  <switch id="42"/>
+  <switch id="41"/>
+  <switch id="40"/>
+  <switch id="39"/>
+  <switch id="38"/>
+  <switch id="37"/>
+  <switch id="36"/>
+  <switch id="35"/>
+  <switch id="34"/>
+  <switch id="33"/>
+  <switch id="32"/>
+  <switch id="31"/>
+  <switch id="30"/>
+  <switch id="29"/>
+  <switch id="28"/>
+  <switch id="27"/>
+  <switch id="26"/>
+  <switch id="25"/>
+  <switch id="24"/>
+  <switch id="23"/>
+  <switch id="22"/>
+  <switch id="21"/>
+  <switch id="20"/>
+  <switch id="19"/>
+  <switch id="18"/>
+  <switch id="17"/>
+  <switch id="16"/>
+  <switch id="15"/>
+  <switch id="14"/>
+  <switch id="13"/>
+  <switch id="12"/>
+  <switch id="11"/>
+  <switch id="10"/>
+  <switch id="9"/>
+  <switch id="8"/>
+  <switch id="7"/>
+  <switch id="6"/>
+  <switch id="5"/>
+  <switch id="4"/>
+  <switch id="3"/>
+  <switch id="2"/>
+  <switch id="1"/>
+  <switch id="0">
+    <CC channel="1" num="2" id="Sub">1</CC>
+    <CC channel="1" num="3" id="Sub">2</CC>
+    <CC channel="1" num="8" id="Sub">4</CC>
+    <CC channel="1" num="9" id="Sub">5</CC>
+    <CC channel="1" num="12" id="Sub">6</CC>
+    <CC channel="1" num="13" id="Sub">7</CC>
+    <CC channel="1" num="22" id="GrandMaster">0</CC>
+    <CC channel="1" num="45" id="Sub">10</CC>
+    <CC channel="1" num="47" id="Sub">9</CC>
+    <CC channel="1" num="48" id="Sub">8</CC>
+    <CC channel="1" num="49" id="Sub">9</CC>
+    <CC channel="1" num="50" id="Sub">10</CC>
+    <NOTE channel="1" num="27" id="Flash">7</NOTE>
+    <NOTE channel="1" num="28" id="Flash">4</NOTE>
+    <NOTE channel="1" num="29" id="Flash">5</NOTE>
+    <NOTE channel="1" num="30" id="Flash">6</NOTE>
+  </switch>
+</midi>

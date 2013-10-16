@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<conduite>
+  <step id="-1">
+    <cue/>
+    <timein/>
+    <timeout/>
+    <delayin/>
+    <delayout/>
+    <wait/>
+    <obs/>
+    <MLink/>
+    <jump/>
+  </step>
+  <step id="0">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="1">
+    <cue>0.5</cue>
+    <timein>5</timein>
+    <timeout>5</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="2">
+    <cue>0.7</cue>
+    <timein>10.0</timein>
+    <timeout>10.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="3">
+    <cue>1.0</cue>
+    <timein>15.0</timein>
+    <timeout>15.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="4">
+    <cue>1.5</cue>
+    <timein>10.0</timein>
+    <timeout>10.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="5">
+    <cue>1.7</cue>
+    <timein>7.0</timein>
+    <timeout>7.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="6">
+    <cue>2.0</cue>
+    <timein>15.0</timein>
+    <timeout>10.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="7">
+    <cue>3.0</cue>
+    <timein>10.0</timein>
+    <timeout>10.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="8">
+    <cue>4.0</cue>
+    <timein>7.0</timein>
+    <timeout>10.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="9">
+    <cue>5.0</cue>
+    <timein>5.0</timein>
+    <timeout>5.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="10">
+    <cue>5.1</cue>
+    <timein>7.0</timein>
+    <timeout>15.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="11">
+    <cue>5.5</cue>
+    <timein>7.0</timein>
+    <timeout>10.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="12">
+    <cue>6.0</cue>
+    <timein>0.1</timein>
+    <timeout>0.1</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="13">
+    <cue>7.0</cue>
+    <timein>0.1</timein>
+    <timeout>0.1</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="14">
+    <cue>8.0</cue>
+    <timein>0.1</timein>
+    <timeout>0.1</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="15">
+    <cue>9.0</cue>
+    <timein>12.0</timein>
+    <timeout>12.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="16">
+    <cue>10.0</cue>
+    <timein>7.0</timein>
+    <timeout>7.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="17">
+    <cue>11.0</cue>
+    <timein>3.0</timein>
+    <timeout>3.0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="18">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="19">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="20">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="21">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="22">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="23">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="24">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="25">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="26">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="27">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="28">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="29">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="30">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="31">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="32">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="33">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="34">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="35">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="36">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+  <step id="37">
+    <cue>0.0</cue>
+    <timein>0</timein>
+    <timeout>0</timeout>
+    <delayin>0</delayin>
+    <delayout>0</delayout>
+    <wait>0</wait>
+    <obs>*</obs>
+    <MLink/>
+    <jump>-1</jump>
+  </step>
+</conduite>
