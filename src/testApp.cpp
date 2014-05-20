@@ -80,19 +80,19 @@ void testApp::setup(){
 	RelaySheildGui = new ofxUICanvas(GUI_WIDTH + 10,550,GUI_WIDTH,GUI_HEIGHT);
 	ofColor color;
 	RelaySheildGui->setColorBack(color.darkKhaki);
-	RelaySheildGui->addWidgetDown(new ofxUIToggle(16, 16, false, "FULLSCREEN"));
+	RelaySheildGui->addWidgetDown(new ofxUIToggle("FULLSCREEN", 16, 16, false));
     RelaySheildGui->addWidgetDown(new ofxUILabel("RelayControl", OFX_UI_FONT_LARGE)); 
 
-    RelaySheildGui->addWidgetDown(new ofxUIButton(16, 16, false, "Relay1Pulse"));
-	RelaySheildGui->addWidgetRight(new ofxUIButton(16, 16, false, "Relay2Pulse"));
-	RelaySheildGui->addWidgetRight(new ofxUIButton(16, 16, false, "Relay3Pulse"));
-	RelaySheildGui->addWidgetDown(new ofxUIToggle(16, 16, false, "Light"));
-	RelaySheildGui->addWidgetRight(new ofxUIToggle(16, 16, false, "Projector1"));
-	RelaySheildGui->addWidgetRight(new ofxUIToggle(16, 16, false, "Projector2"));
-	RelaySheildGui->addWidgetDown(new ofxUIToggle(16, 16, false, "SlideShowOn"));
+    RelaySheildGui->addWidgetDown(new ofxUIButton("Relay1Pulse",16, 16, false));
+	RelaySheildGui->addWidgetRight(new ofxUIButton("Relay2Pulse",16, 16, false));
+	RelaySheildGui->addWidgetRight(new ofxUIButton("Relay3Pulse",16, 16, false));
+	RelaySheildGui->addWidgetDown(new ofxUIToggle("Light",16, 16, false));
+	RelaySheildGui->addWidgetRight(new ofxUIToggle("Projector1",16, 16, false));
+	RelaySheildGui->addWidgetRight(new ofxUIToggle("Projector2",16, 16, false));
+	RelaySheildGui->addWidgetDown(new ofxUIToggle("SlideShowOn",16, 16, false ));
 	//RelaySheildGui->addWidgetRight(new ofxUIButton(16, 16, false, "Relay4Pulse"));
 
-	RelaySheildGui->addWidgetDown(new ofxUIToggle(16, 16, false, "DisableRelays"));
+	RelaySheildGui->addWidgetDown(new ofxUIToggle("DisableRelays",16, 16, false));
 
 
 	ofAddListener(RelaySheildGui->newGUIEvent, this, &testApp::guiEvent);
@@ -100,19 +100,19 @@ void testApp::setup(){
 	TimelineControlGui = new ofxUICanvas(0,550,GUI_WIDTH,GUI_HEIGHT);
 	TimelineControlGui->setColorBack(color.darkKhaki);
 	TimelineControlGui->addWidgetDown(new ofxUILabel("Timeline Control", OFX_UI_FONT_LARGE)); 
-	TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "Start"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "Pause"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "Stop"));
-	TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "AudioLocuraStart"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioLocuraPause"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioLocuraStop"));
-	TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "AudioSlideshowStart"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioSlideshowPause"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioSlideshowStop"));
-	TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "AudioColadorStart"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioColadorPause"));
-	TimelineControlGui->addWidgetRight(new ofxUIButton(16, 16, false, "AudioColadorStop"));
-    TimelineControlGui->addWidgetDown(new ofxUIButton(16, 16, false, "NextDLightSequence"));
+	TimelineControlGui->addWidgetDown(new ofxUIButton("Start",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("Pause",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("Stop",16, 16, false));
+	TimelineControlGui->addWidgetDown(new ofxUIButton("AudioLocuraStart",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("AudioLocuraPause",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("AudioLocuraStop",16, 16, false));
+	TimelineControlGui->addWidgetDown(new ofxUIButton("AudioSlideshowStart",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("AudioSlideshowPause",16, 16, false ));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("AudioSlideshowStop",16, 16, false ));
+	TimelineControlGui->addWidgetDown(new ofxUIButton("AudioColadorStart",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("AudioColadorPause",16, 16, false));
+	TimelineControlGui->addWidgetRight(new ofxUIButton("AudioColadorStop",16, 16, false));
+    TimelineControlGui->addWidgetDown(new ofxUIButton("NextDLightSequence",16, 16, false));
 	ofAddListener(TimelineControlGui->newGUIEvent, this, &testApp::guiEvent);
 
 	SlideshowTimer.setup(SLIDE_SHOW_TIMER,false);
