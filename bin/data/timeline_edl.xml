@@ -55,14 +55,14 @@
         <value>4.000000000</value>
     </key>
     <key>
-        <flag>bck2</flag>
-        <time>00:00:15:000</time>
-        <value>4.000000000</value>
-    </key>
-    <key>
         <flag>fwd1</flag>
         <time>00:00:15:000</time>
         <value>5.000000000</value>
+    </key>
+    <key>
+        <flag>bck2</flag>
+        <time>00:00:15:000</time>
+        <value>4.000000000</value>
     </key>
     <key>
         <flag>Projector2Off</flag>

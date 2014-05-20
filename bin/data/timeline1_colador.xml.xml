@@ -1,0 +1,22 @@
+<keyframes>
+    <key>
+        <flag>forward</flag>
+        <time>00:00:00:664</time>
+        <value>0.549295783</value>
+    </key>
+    <key>
+        <flag>backward</flag>
+        <time>00:00:01:727</time>
+        <value>0.349999994</value>
+    </key>
+    <key>
+        <flag>forward</flag>
+        <time>00:00:01:728</time>
+        <value>0.574999988</value>
+    </key>
+    <key>
+        <flag>forward</flag>
+        <time>00:00:02:589</time>
+        <value>0.626760602</value>
+    </key>
+</keyframes>
